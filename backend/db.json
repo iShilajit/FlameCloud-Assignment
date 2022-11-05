@@ -1,0 +1,100 @@
+{
+  "actions": [
+    {
+      "id": 1,
+      "category": "Marketing",
+      "cat":[
+        {
+          "id":1,
+          "subcategory": "Wordpress",
+          "pointer":[
+            {
+              "id":1,
+              "option": "option 1"
+            },
+            {
+              "id":2,
+              "option": "option 2"
+            }
+          ]
+        },
+        {
+          "id":2,
+          "subcategory": "Google Drive"
+        }
+      ]
+       
+      
+    }, {
+      "id": 2,
+      "category": "Sales",
+      "cat":[
+        {
+          "id":1,
+          "subcategory": "Wordpress",
+          "pointer":[
+            {
+              "id":1,
+              "option": "option 1"
+            },
+            {
+              "id":2,
+              "option": "option 2"
+            }
+          ]
+        },
+        {
+          "id":2,
+          "subcategory": "Google Drive",
+           "pointer":[
+            {
+              "id":1,
+              "option": "option 1"
+            },
+            {
+              "id":2,
+              "option": "option 2"
+            }
+          ]
+        }
+      ]
+      
+    }, {
+      "id": 3,
+      "category": "Design",
+      "cat":[
+        {
+          "id":1,
+          "subcategory": "Wordpress",
+          "pointer":[
+            {
+              "id":1,
+              "option": "option 1"
+            },
+            {
+              "id":2,
+              "option": "option 2"
+            }
+          ]
+        },
+        {
+          "id":2,
+          "subcategory": "Google Drive",
+          "pointer":[
+            {
+              "id":1,
+              "option": "option 1"
+            },
+            {
+              "id":2,
+              "option": "option 2"
+            }
+          ]
+        }
+      ]
+      
+      
+    }
+  ]
+  
+}
