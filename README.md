@@ -11,4 +11,4 @@
 ### Heroku [Backend for Api Call]
 
 
-# the application is fully responsive.
+# The application is fully responsive.
